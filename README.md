@@ -1,13 +1,8 @@
-<style>
-.red {
- color:red; 
- }
-</style>
 ## Folders where used
-- <span style="color:#f03c15;">404</span> → Only <span class="red">/404/</span>
-- <span style="color:#f03c15;">Account</span>Account → Only <span style="color:red;">/account/</span>
-- 404 → Only /404/
-- 404 → Only /404/
+```
+404 → Only /404/
+Account → Only /account/
+<b style='color:red'>red words</b>
 404 → Only /404/
 404 → Only /404/
 404 → Only /404/
@@ -19,6 +14,9 @@
 404 → Only /404/
 404 → Only /404/
 404 → Only /404/
+404 → Only /404/
+404 → Only /404/
+```
 
 ![#fd8b19](https://via.placeholder.com/15/fd8b19/000000?text=+) `Folder`
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Page`
