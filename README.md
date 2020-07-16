@@ -1,36 +1,22 @@
 ## Folders where used
 
-
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `Account → Only /account/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
-<br/>
+```
+404 → Only /404/
+Account → Only /account/
+404 → Only /404/
+404 → Only /404/
+404 → Only /404/
+404 → Only /404/
+404 → Only /404/
+404 → Only /404/
+404 → Only /404/
+404 → Only /404/
+404 → Only /404/
+404 → Only /404/
+404 → Only /404/
+404 → Only /404/
+404 → Only /404/
+```
 
 
 ## Contributing
