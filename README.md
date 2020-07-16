@@ -18,7 +18,7 @@ Account → Only /account/
 404 → Only /404/
 ```
 
-!(https://p1.hiclipart.com/preview/431/740/60/pop-folders-mini-yellow-folder-icon-art-png-clipart.jpg) `Folder`
+![](https://p1.hiclipart.com/preview/431/740/60/pop-folders-mini-yellow-folder-icon-art-png-clipart.jpg) `Folder`
 
 
 
