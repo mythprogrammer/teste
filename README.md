@@ -1,7 +1,7 @@
 ## Folders where used
 
 ```
-404 → Only /404/
+![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg) `404` → Only /404/
 Account → Only /account/
 404 → Only /404/
 404 → Only /404/
@@ -17,10 +17,6 @@ Account → Only /account/
 404 → Only /404/
 404 → Only /404/
 ```
-
-![#000](https://icon-library.com/images/folder-icon-png/folder-icon-png-0.jpg)
-
-
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
