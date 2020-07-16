@@ -1,4 +1,6 @@
 ## Folders where used
+
+<b style='color:red'>red words</b>
 ```
 404 → Only /404/
 Account → Only /account/
