@@ -1,7 +1,7 @@
 ## Folders where used
 
 ```
-## Folder → Templates
+- Folder → Templates
 404 → Only 404
 Account → Only Account
 Breadcrumb → Account, Busca , Busca-Vazia , 404 , Account , Department , Institucional , Nossas-lojas , Produto and /ajuda/duvidas-frequentes/
