@@ -1,19 +1,19 @@
 ## Folders where used
 
 ```
-404 → Only /404/
-Account → Only /account/
-Breadcrumb → Only /404/
-Department → Only /404/
+404 → Only 404
+Account → Only Account
+Breadcrumb → Account, Busca , Busca-Vazia , 404 , Account , Department , Institucional , Nossas-lojas and Produto
+Department → Search Page,
 Footer → All pages
 Global → All pages
 Header → All pages
-Home → Only /404/
-Institucional → Only /404/
-Login → Only /404/
-Modal Newsletter → Only /404/
+Home → Busca-vazia , 
+Institucional → /institucional/nossas-lojas/ , /institucional/ and /ajuda/duvidas-frequentes/
+Login → Only /login/
+Modal Newsletter → All pages
 Old → All pages
-Product → Only /404/
+Product → Product Page and Quick-View on Shelf
 Search → Only /404/
-Shelf → Only /404/
+Shelf → Search Page , Busca-vazia , 
 ```
