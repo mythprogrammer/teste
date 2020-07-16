@@ -1,6 +1,6 @@
 ## Folders where used
 ```diff
--teste- +teste+ !teste! #teste#
+[Purple](#)
 404 → Only /404/
 Account → Only /account/
 404 → Only /404/
